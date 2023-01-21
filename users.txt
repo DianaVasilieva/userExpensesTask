@@ -1,0 +1,4 @@
+user_id, first name, last name, phone 
+(1, 'Diana', 'Vasilieva', '380638856748')
+(2, 'Mariya', 'Shtanko', '380975793131')
+(3, 'Viktor', 'Suprovych', '380974541090')
